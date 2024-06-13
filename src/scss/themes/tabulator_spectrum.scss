@@ -1,6 +1,10 @@
+@import "@spectrum-css/tokens/dist/index.css";
+@import "@spectrum-css/typography/dist/index.css";
+@import "@spectrum-css/icon/dist/index.css";
+@import "@spectrum-css/table/dist/index.css";
 
 //Main Theme Variables
-$backgroundColor: #fff !default; //background color of tabulator
+$backgroundColor: var(--background-base-color) !default; //background color of tabulator
 $borderColor:#999 !default; //border to tabulator
 $textSize:14px !default; //table text size
 
