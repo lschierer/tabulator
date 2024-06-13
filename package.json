@@ -51,6 +51,7 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
+    "@spectrum-css/tokens": "^14.3.0",
     "eslint": "^8.57.0",
     "eslint-plugin-only-warn": "^1.1.0",
     "fs-extra": "^11.2.0",
